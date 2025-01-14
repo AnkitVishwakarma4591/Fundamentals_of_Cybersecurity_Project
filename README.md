@@ -2,7 +2,7 @@
 
 This project demonstrates practical applications of cryptography and password-cracking techniques. It simulates real-world scenarios where penetration testers or forensic analysts encounter encrypted files.  
 
-Special thanks to my mentor, **Snacya Singh**, for guiding me throughout this project! 🙌  
+Special thanks to my mentor, **Sanchay Singh**, for guiding me throughout this project! 🙌  
 
 ---
 
