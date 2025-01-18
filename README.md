@@ -81,7 +81,7 @@ Result: Successfully cracked the PDF file password!
 ---
 
 ## Acknowledgements  
-Special thanks to my mentor, **Snacya Singh**, for her guidance and support throughout this project!  
+Special thanks to my mentor, **Sanchay Singh**, for her guidance and support throughout this project!  
 
 ---
 
@@ -90,11 +90,4 @@ Feel free to share your feedback or reach out:
 - [LinkedIn](https://www.linkedin.com/in/ankit-vishwakarma-324baa2a6/)  
 - [Portfolio Website](https://ankitvishwakarma.sunstoneace.com/ankit/)  
 
----  
-
-### Tags  
-`#Cybersecurity` `#Cryptography` `#Hashcat` `#JohnTheRipper` `#LearningJourney`  
-
-```
-
-This README is well-structured and ready for your GitHub repository. It includes all the details from your project and gives proper credit to your mentor. 😊
+---
