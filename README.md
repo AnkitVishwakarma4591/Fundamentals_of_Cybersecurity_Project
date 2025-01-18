@@ -84,10 +84,3 @@ Result: Successfully cracked the PDF file password!
 Special thanks to my mentor, **Sanchay Singh**, for her guidance and support throughout this project!  
 
 ---
-
-## Connect with Me  
-Feel free to share your feedback or reach out:  
-- [LinkedIn](https://www.linkedin.com/in/ankit-vishwakarma-324baa2a6/)  
-- [Portfolio Website](https://ankitvishwakarma.sunstoneace.com/ankit/)  
-
----
